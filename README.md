@@ -1,4 +1,4 @@
-# Circular Imageview V1.0
+# Circular Imageview
 
 Copyright [2021] [Manikandan KRM]
 
